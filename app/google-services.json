@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "364112268233",
+    "project_id": "pushtes-f91bf",
+    "storage_bucket": "pushtes-f91bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364112268233:android:05af266c1090c162ef7618",
+        "android_client_info": {
+          "package_name": "com.example.applicationpush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364112268233-i62pksb983ltkaiocngs1f9iv2hj89mb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4ihl9P-GS90QXepmcnLEaXWpSjXQJegQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364112268233-i62pksb983ltkaiocngs1f9iv2hj89mb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
